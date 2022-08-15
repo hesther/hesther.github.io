@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <article class="entry">
+   {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}"{% endif %}
+   
+  </article> 
+</div>
+
+<h2>{{ page.title }}</h2>
+
+{{ content }}

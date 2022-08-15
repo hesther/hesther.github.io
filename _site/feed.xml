@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-15T18:51:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr. Esther Heid</title><subtitle>A guide to getting started with Jekyll.</subtitle><entry><title type="html">Where do the pictures come from?</title><link href="http://localhost:4000/general/2022/08/15/pictures.html" rel="alternate" type="text/html" title="Where do the pictures come from?" /><published>2022-08-15T14:00:00+02:00</published><updated>2022-08-15T14:00:00+02:00</updated><id>http://localhost:4000/general/2022/08/15/pictures</id><content type="html" xml:base="http://localhost:4000/general/2022/08/15/pictures.html"><![CDATA[<p>All pictures on this website were taken by myself, in the US and Switzerland. Want to visit these places? Here is a summary:</p>
+
+<h2 id="greater-boston">Greater Boston</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="../../../../assets/img/charles1.png" width="90%" /></td>
+      <td><img src="../../../../assets/img/water1.png" width="90%" /></td>
+      <td><img src="../../../../assets/img/harbor1.png" width="90%" /></td>
+    </tr>
+    <tr>
+      <td><font size="2">Charles River in Cambridge</font></td>
+      <td><font size="2">Mystic River in Everett</font></td>
+      <td><font size="2">Harbor Walk in Boston</font></td>
+    </tr>
+    <tr>
+      <td><img src="../../../../assets/img/lake1.png" width="90%" /></td>
+      <td><img src="../../../../assets/img/ocean1.png" width="90%" /></td>
+      <td><img src="../../../../assets/img/sea1.png" width="90%" /></td>
+    </tr>
+    <tr>
+      <td><font size="2">South Reservoir in Middlesex Fells</font></td>
+      <td><font size="2">Constitution Beach in Orient Heights</font></td>
+      <td><font size="2">Revere Beach in Revere</font></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="switzerland">Switzerland</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="../../../../assets/img/swiss1.png" width="90%" /></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><font size="2">Zugersee in Switzerland</font></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="general" /><summary type="html"><![CDATA[All pictures on this website were taken by myself, in the US and Switzerland. Want to visit these places? Here is a summary:]]></summary></entry><entry><title type="html">About the scribble on the landing page</title><link href="http://localhost:4000/general/2022/08/15/scribble.html" rel="alternate" type="text/html" title="About the scribble on the landing page" /><published>2022-08-15T13:00:00+02:00</published><updated>2022-08-15T13:00:00+02:00</updated><id>http://localhost:4000/general/2022/08/15/scribble</id><content type="html" xml:base="http://localhost:4000/general/2022/08/15/scribble.html"><![CDATA[<script type="text/javascript" async="" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<p>Did you wonder what the doodle on the landing page is about?</p>
+
+<p><img src="../../../../assets/img/molecule.jpeg " width="100%" /></p>
+
+<p>It comprises some of my favorite molecules. In dark gray, \(\beta\)-Pinene, is a terpene made out of two isoprene units, with a pine-like smell. It is released by some forest trees. Another terpene, geraniol, is shown in light gray in the background, and is a component of rose scent. There are more than 30,000 terpens known, most of them produced by plants, and they have an astonishing palette of biological functions. I love being out and about, enjoying nature, and the scent of flowers or trees is definitely part of the experience. I also love coming home to the smell of freshly baked cinnamon buns, which owe their scent to cinnamon aldehyde, shown in medium gray. Interesting molecules are all around us!</p>]]></content><author><name></name></author><category term="general" /><summary type="html"><![CDATA[]]></summary></entry></feed>

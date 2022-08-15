@@ -1,0 +1,46 @@
+<aside>
+	<div class="container">
+		<nav>
+			<ul>
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %} {% endfor %}
+			</ul>
+			</li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+{% if page.permalink == '/about/' %}
+  <header class='header-about'>
+  </header>
+{% else %}
+  {% if page.permalink == '/research/' %}
+    <header class='header-research'>
+    </header>
+  {% else %}
+    {% if page.permalink == '/code/' %}
+      <header class='header-code'>
+      </header>
+    {% else %}
+      {% if page.permalink == '/publications/' %}
+        <header class='header-publications'>
+        </header>
+      {% else %}
+        {% if page.permalink == '/teaching/' %}
+          <header class='header-teaching'>
+          </header>
+	{% else %}
+	  {% if page.permalink == '/cv/' %}
+	  <header class='header-cv'>
+          </header>
+	{% else %}
+	  <header>
+          </header>
+          {% endif %}
+	  {% endif %}
+	  {% endif %}
+	  {% endif %}
+	  {% endif %}
+{% endif %}

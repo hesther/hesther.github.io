@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Where do the pictures come from?"
+date:   2022-08-15 8:00:00 -0400
+categories: general
+---
+
+All pictures on this website were taken by myself, in the US and Switzerland. Want to visit these places? Here is a summary:
+
+Greater Boston
+--------------
+
+| <img src="../../../../assets/img/charles1.png" width="90%"> | <img src="../../../../assets/img/water1.png" width="90%"> | <img src="../../../../assets/img/harbor1.png" width="90%"> | 
+| <font size="2">Charles River in Cambridge | <font size="2">Mystic River in Everett | <font size="2">Harbor Walk in Boston |
+| <img src="../../../../assets/img/lake1.png" width="90%"> | <img src="../../../../assets/img/ocean1.png" width="90%"> | <img src="../../../../assets/img/sea1.png" width="90%"> | 
+| <font size="2">South Reservoir in Middlesex Fells | <font size="2">Constitution Beach in Orient Heights | <font size="2">Revere Beach in Revere |
+
+
+
+Switzerland
+-----------
+
+|:---:|:---:|:---:|
+| <img src="../../../../assets/img/swiss1.png" width="90%"> | |  | 
+| <font size="2">Zugersee in Switzerland| | | 
+

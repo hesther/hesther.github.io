@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "About the scribble on the landing page"
+date:   2022-08-15 07:00:00 -0400
+categories: general
+---
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+Did you wonder what the doodle on the landing page is about?
+
+<img src="../../../../assets/img/molecule.jpeg " width="100%">
+
+It comprises some of my favorite molecules. In dark gray, $$\beta$$-Pinene, is a terpene made out of two isoprene units, with a pine-like smell. It is released by some forest trees. Another terpene, geraniol, is shown in light gray in the background, and is a component of rose scent. There are more than 30,000 terpens known, most of them produced by plants, and they have an astonishing palette of biological functions. I love being out and about, enjoying nature, and the scent of flowers or trees is definitely part of the experience. I also love coming home to the smell of freshly baked cinnamon buns, which owe their scent to cinnamon aldehyde, shown in medium gray. Interesting molecules are all around us!

@@ -1,0 +1,36 @@
+email:
+  id: 'eheid@mit.edu'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+google-scholar:
+  id: 'NDE5issAAAAJ&hl'
+  href: 'https://scholar.google.com/citations?user='
+  title: 'GoogleScholar'
+  ai-icon: 'ai-google-scholar-square'
+
+github:
+  id: 'hesther'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+linkedin:
+  id: 'esther-heid-ab20001a6/'
+  href: 'https://linkedin.com/in/'
+  title: 'Linkedin'
+  fa-icon: 'fa-linkedin-square'
+
+twitter:
+  id: 'esther_heid'
+  href: 'https://twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+orcid:
+  id: '0000-0002-8404-6596'
+  href: 'https://orcid.org/'
+  title: 'Orcid'
+  ai-icon: 'ai-orcid-square'
+  
