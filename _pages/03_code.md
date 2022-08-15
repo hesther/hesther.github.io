@@ -9,4 +9,4 @@ permalink: /code/
 * Extraction and scoring of enzymatic reaction templates: [https://github.com/hesther/ehreact](https://github.com/hesther/ehreact)
 * Deep learning of molecular and reaction properties: [https://github.com/chemprop/chemprop](https://github.com/chemprop/chemprop)
 * Database of various reaction properties: [https://github.com/hesther/reactiondatabase](https://github.com/hesther/reactiondatabase)
-* Quantum mechanical calulcation of atomic polarizabilities (Python script): [http://www.mdy.univie.ac.at/python-stuff/atomic polarizabilities charge.py](http://www.mdy.univie.ac.at/python-stuff/atomic polarizabilities charge.py)
+* Quantum mechanical calulcation of atomic polarizabilities (Python script): [http://www.mdy.univie.ac.at/python-stuff/atomic polarizabilities charge.py](http://www.mdy.univie.ac.at/python-stuff/atomic_polarizabilities_charge.py)
