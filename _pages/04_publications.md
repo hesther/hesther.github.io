@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 
 <ol reversed>
-  <li><b>Data-driven prediction of enzymatic reactions.</b>E. Heid, D. Probst, W. H. Green. In preparation </li>
-  <li><b>Characterizing Uncertainty in Machine Learning for Chemistry.</b>E. Heid, C. J. McGill, F. Vermeire, W. H. Green. Submitted. Preprint: <a href="https://doi.org/10.26434/chemrxiv-2023-00vcg">DOI:10.26434/chemrxiv-2023-00vcg</a>  </li>
-  <li><b>Machine Learning-Guided Discovery of New Electrochemical Reactions.</b> A. Zahrt, Y. Mo, K. Nandiwale, R. Shprints, E. Heid, K. F. Jensen. <i> J. Am. Chem. Soc. </i> (2022), 144, 22599-22610 </li>
+  <li><b>Data-driven prediction of enzymatic reactions.</b> E. Heid, D. Probst, W. H. Green. In preparation </li>
+  <li><b>Characterizing Uncertainty in Machine Learning for Chemistry.</b> E. Heid, C. J. McGill, F. Vermeire, W. H. Green. Submitted. Preprint: <a href="https://doi.org/10.26434/chemrxiv-2023-00vcg">DOI:10.26434/chemrxiv-2023-00vcg</a>  </li>
+  <li><b>Machine Learning-Guided Discovery of New Electrochemical Reactions.</b> A. Zahrt, Y. Mo, K. Nandiwale, R. Shprints, E. Heid, K. F. Jensen. <i> J. Am. Chem. Soc. </i> (2022), 144, 22599-22610 <a href="https://doi.org/10.1021/jacs.2c08997">DOI:10.1021/jacs.2c08997</a> </li>
   <li><b>On the Value of Using 3D Shape and Electrostatic Similarities in Deep Generative Methods.</b> G. Bolcato, E. Heid, J. Boström. <i>J. Chem. Inf. Model.</i> (2022) 62, 1388-1398, <a href="https://doi.org/10.1021/acs.jcim.1c01535">DOI:10.1021/acs.jcim.1c01535</a></li>
   <li> <b> Collectivity in ionic liquids: a temperature dependent, polarizable molecular dynamics study.</b> A. Szabadi, P. Honegger, F. Schöfbeck, M. Sappl, E. Heid, O. Steinhauser, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2022) 24, 15776-15790, <a href="https://doi.org/10.1039/D2CP00898J">DOI:10.1039/D2CP00898J</a></li>
   <li> <b> Similarity based enzymatic retrosynthesis.</b> K. Sankaranarayanan, E. Heid, C. W. Coley, D. Verma, W. H. Green, K. F. Jensen. <i> Chem. Sci.</i> (2022) 13, 6039-6053, <a href="https://doi.org/10.1039/D2SC01588A">DOI:10.1039/D2SC01588A</a></li>
