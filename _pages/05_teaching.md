@@ -6,9 +6,15 @@ permalink: /teaching/
 
 I am a passionate, motivated and engaging teacher, inspiring students to get interested in the taught topic, actively participate in the course and earn good grades. I am able to explain difficult concepts intelligibly and compellingly, structure a course logically, create a welcoming classroom atmosphere, treat students with respect, and strive towards equity, fairness and diversity. I strongly believe that excellent teaching is important and necessary to raise new generations of top-qualified researchers.
 
-### University of Vienna:
+### TU Wien:
 
-#### Course leader:
+|Semester | Curriculum | ECTS | Course name|
+| ----------- | ----------- |----------- |----------- |
+|2023W | MSc CSE/TC/MS | 3 | Simulation of condensed matter |
+|2023W | MSc CSE | 4.5 | Introduction to Theoretical Chemistry |
+|2023W | MSc CSE | 4.5 | Introduction to Computational Science and Engineering |
+
+### University of Vienna:
 
 |Semester | Curriculum | ECTS | Course name|
 | ----------- | ----------- |----------- |----------- |
@@ -30,7 +36,7 @@ I am a passionate, motivated and engaging teacher, inspiring students to get int
 |2016W |BSc Biology |2 |Laboratory course: Mathematics (Group 2)
 
 
-#### Assistant:
+### Student assistant (University of Vienna):
 
 |Semester | Curriculum | ECTS | Course name|
 | ----------- | ----------- |----------- |----------- |

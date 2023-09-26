@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 <ol reversed>
+  <li><b>Chemprop: A Machine Learning Package for Chemical Property Prediction.</b> E. Heid, K. P. Greenman, Y. Chung, S.-C. Li, D. E. Graff, F. H. Vermeire, H. Wu, W. H. Green, C. J. McGill. Submitted. Preprint:  <a href="https://doi.org/10.26434/chemrxiv-2023-3zcfl-v2">DOI:10.26434/chemrxiv-2023-3zcfl-v2</a>   </li>
   <li><b>EnzymeMap: Curation, validation and data-driven prediction of enzymatic reactions.</b> E. Heid, D. Probst, W. H. Green, G. K. H. Madsen. Submitted. Preprint:  <a href="https://doi.org/10.26434/chemrxiv-2023-jzw9w">DOI:10.26434/chemrxiv-2023-jzw9w</a>   </li>
   <li><b>Deep Ensembles vs. Committees for Uncertainty Estimation in Neural-Network Force Fields: Comparison and Application to Active Learning.</b> J. Carrete, J. Montes-Campos, R. Wanzenböck, E. Heid, G. K. H. Madsen. Submitted. Preprint:  <a href="https://doi.org/10.48550/arXiv.2302.08805">DOI:10.48550/arXiv.2302.08805</a>  </li>
   <li><b>Characterizing Uncertainty in Machine Learning for Chemistry.</b> E. Heid, C. J. McGill, F. Vermeire, W. H. Green. Submitted. Preprint: <a href="https://doi.org/10.26434/chemrxiv-2023-00vcg">DOI:10.26434/chemrxiv-2023-00vcg</a>  </li>
