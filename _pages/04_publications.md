@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 <ol reversed>
-  <li><b>Chemprop: A Machine Learning Package for Chemical Property Prediction.</b> E. Heid, K. P. Greenman, Y. Chung, S.-C. Li, D. E. Graff, F. H. Vermeire, H. Wu, W. H. Green, C. J. McGill. Submitted. Preprint:  <a href="https://doi.org/10.26434/chemrxiv-2023-3zcfl-v2">DOI:10.26434/chemrxiv-2023-3zcfl-v2</a>   </li>
-  <li><b>EnzymeMap: Curation, validation and data-driven prediction of enzymatic reactions.</b> E. Heid, D. Probst, W. H. Green, G. K. H. Madsen. <i> Chem. Sci. </i> (2023) Accepted.  <a href="https://doi.org/10.1039/D3SC02048G">DOI:10.1039/D3SC02048G</a>   </li>
+  <li><b>Chemprop: A Machine Learning Package for Chemical Property Prediction.</b> E. Heid, K. P. Greenman, Y. Chung, S.-C. Li, D. E. Graff, F. H. Vermeire, H. Wu, W. H. Green, C. J. McGill. Accepted. Preprint:  <a href="https://doi.org/10.26434/chemrxiv-2023-3zcfl-v2">DOI:10.26434/chemrxiv-2023-3zcfl-v2</a>   </li>
+  <li><b>EnzymeMap: Curation, validation and data-driven prediction of enzymatic reactions.</b> E. Heid, D. Probst, W. H. Green, G. K. H. Madsen. <i> Chem. Sci. </i> (2023), 14, 14229-14242.  <a href="https://doi.org/10.1039/D3SC02048G">DOI:10.1039/D3SC02048G</a>   </li>
   <li><b>Deep Ensembles vs. Committees for Uncertainty Estimation in Neural-Network Force Fields: Comparison and Application to Active Learning.</b> J. Carrete, J. Montes-Campos, R. Wanzenböck, E. Heid, G. K. H. Madsen. <i> J. Chem. Phys. </i> (2023), 158, 204801   <a href="https://doi.org/10.1063/5.0146905">DOI:10.1063/5.0146905</a>  </li>
   <li><b>Characterizing Uncertainty in Machine Learning for Chemistry.</b> E. Heid, C. J. McGill, F. Vermeire, W. H. Green. <i> J. Chem. Inf. Model. </i> (2023), 63, 4012-4029  <a href="https://doi.org/10.1021/acs.jcim.3c00373">DOI:10.1021/acs.jcim.3c00373</a>  </li>
   <li><b>Machine Learning-Guided Discovery of New Electrochemical Reactions.</b> A. Zahrt, Y. Mo, K. Nandiwale, R. Shprints, E. Heid, K. F. Jensen. <i> J. Am. Chem. Soc. </i> (2022), 144, 22599-22610 <a href="https://doi.org/10.1021/jacs.2c08997">DOI:10.1021/jacs.2c08997</a> </li>
