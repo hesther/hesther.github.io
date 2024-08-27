@@ -10,6 +10,11 @@ I am a passionate, motivated and engaging teacher, inspiring students to get int
 
 |Semester | Curriculum | ECTS | Course name|
 | ----------- | ----------- |----------- |----------- |
+|2024W | MSc CSE/TC/MS | 3 | Simulation of condensed matter |
+|2024W | MSc CSE | 4.5 | Introduction to Theoretical Chemistry |
+|2024W | MSc CSE | 4.5 | Introduction to Computational Science and Engineering |
+2024S | MSc CSE| 6 | Numerical Simulation and Scientific Computing II |
+2024S | MSc TC| 3 | Programming for Chemists |
 |2023W | MSc CSE/TC/MS | 3 | Simulation of condensed matter |
 |2023W | MSc CSE | 4.5 | Introduction to Theoretical Chemistry |
 |2023W | MSc CSE | 4.5 | Introduction to Computational Science and Engineering |
@@ -26,7 +31,7 @@ I am a passionate, motivated and engaging teacher, inspiring students to get int
 |2018S |BSc Chemistry |2 |Laboratory Course in Theoretical Chemistry 
 |2018S |BSc Biology |2 |Laboratory course: Mathematics (Group 1)
 |2018S |BSc Biology |2 |Laboratory course: Mathematics (Group 2) 
-|2017W |BSc Chemistry |1| out of 4 Molecular Spectroscopy 
+|2017W |BSc Chemistry |1 (4)| Molecular Spectroscopy 
 |2017W |BSc Biology |2 |Laboratory course: Mathematics 
 |2017S |BSc Chemistry |1 (4) |Molecular Spectroscopy (Group 1) 
 |2017S |BSc Chemistry |1 (4) |Molecular Spectroscopy (Group 2) 

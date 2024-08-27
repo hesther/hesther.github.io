@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <ol reversed>
-  <li><b>Spatially resolved uncertainties for machine learning potentials.</b> E. Heid, J. Schörghuber, R. Wanzenböck, G. K. H. Madsen. Submitted (2024). Preprint:  <a href="https://doi.org/10.26434/chemrxiv-2024-k27ps">DOI:10.26434/chemrxiv-2024-k27ps</a>   </li>
+  <li><b>Spatially resolved uncertainties for machine learning potentials.</b> E. Heid, J. Schörghuber, R. Wanzenböck, G. K. H. Madsen.  <i> J. Chem. Inf. Model. </i> (2024), 64, 6377-6387   <a href="https://doi.org/10.1021/acs.jcim.4c00904">DOI:10.1021/acs.jcim.4c00904</a>   </li>
   <li><b>LoGAN: Local generative adversarial network for novel structure prediction.</b> P. Kovacs, E. Heid, G. K. H. Madsen. Submitted (2024). Preprint:  <a href="https://doi.org/10.26434/chemrxiv-2024-vf9l1">DOI:10.26434/chemrxiv-2024-vf9l1</a>   </li>
   <li><b>Chemprop: A Machine Learning Package for Chemical Property Prediction.</b> E. Heid, K. P. Greenman, Y. Chung, S.-C. Li, D. E. Graff, F. H. Vermeire, H. Wu, W. H. Green, C. J. McGill. <i> J. Chem. Inf. Model. </i> (2023), 64, 9-17    <a href="https://doi.org/10.1021/acs.jcim.3c01250">DOI:10.1021/acs.jcim.3c01250</a>   </li>
   <li><b>EnzymeMap: Curation, validation and data-driven prediction of enzymatic reactions.</b> E. Heid, D. Probst, W. H. Green, G. K. H. Madsen. <i> Chem. Sci. </i> (2023), 14, 14229-14242.  <a href="https://doi.org/10.1039/D3SC02048G">DOI:10.1039/D3SC02048G</a>   </li>
