@@ -1,5 +1,5 @@
 email:
-  id: 'eheid@mit.edu'
+  id: 'esther.heid@tuwien.ac.at'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-envelope-square'
@@ -21,12 +21,6 @@ linkedin:
   href: 'https://linkedin.com/in/'
   title: 'Linkedin'
   fa-icon: 'fa-linkedin-square'
-
-twitter:
-  id: 'esther_heid'
-  href: 'https://twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
 
 orcid:
   id: '0000-0002-8404-6596'
