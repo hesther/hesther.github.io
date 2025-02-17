@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <ol reversed>
+ <li><b>From flat to stepped: Active learning frameworks for investigating local structure at copper-water interfaces.</b> J. Schörghuber, N. Bučková, E. Heid, G. K. H. Madsen.  <i> submitted </i> (2025)  </li>
+  <li><b>A comprehensive approach to incorporating intermolecular dispersion into the openCOSMO-RS model. Part 2: Atomic polarizabilities.</b> D. Grigorash, S. Müller,  E. Heid, F. Neese, D. Liakos, C. Riplinger, M. García-Ratés, P. Paricaud, E. H. Stenby, I. Smirnova, W. Yan.  <i> submitted </i> (2025), <a href="https://arxiv.org/abs/2502.08520">Preprint</a>   </li>
  <li><b>Exploring inhomogeneous surfaces: Ti-rich SrTiO3(110) reconstructions via active learning.</b> R. Wanzenböck, E. Heid, M. Riva, G. Franceschi, A. M. Imre, J. Carrete, U. Diebold, G. K. H. Madsen.  <i> Dig. Discov. </i> (2024), 3, 2137-2145. <a href="https://doi.org/10.1039/D4DD00231H">DOI:10.1039/D4DD00231H</a>   </li>
   <li><b>Spatially resolved uncertainties for machine learning potentials.</b> E. Heid, J. Schörghuber, R. Wanzenböck, G. K. H. Madsen.  <i> J. Chem. Inf. Model. </i> (2024), 64, 6377-6387   <a href="https://doi.org/10.1021/acs.jcim.4c00904">DOI:10.1021/acs.jcim.4c00904</a>   </li>
   <li><b>LoGAN: Local generative adversarial network for novel structure prediction.</b> P. Kovacs, E. Heid, G. K. H. Madsen. Submitted (2024). Preprint:  <a href="https://doi.org/10.26434/chemrxiv-2024-vf9l1">DOI:10.26434/chemrxiv-2024-vf9l1</a>   </li>

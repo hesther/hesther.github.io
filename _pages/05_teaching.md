@@ -10,11 +10,13 @@ I am a passionate, motivated and engaging teacher, inspiring students to get int
 
 |Semester | Curriculum | ECTS | Course name|
 | ----------- | ----------- |----------- |----------- |
+|2025S | MSc CSE| 6 | Numerical Simulation and Scientific Computing II |
+|2025S | MSc TC| 3 | Programming for Chemists |
 |2024W | MSc CSE/TC/MS | 3 | Simulation of condensed matter |
 |2024W | MSc CSE | 4.5 | Introduction to Theoretical Chemistry |
 |2024W | MSc CSE | 4.5 | Introduction to Computational Science and Engineering |
-2024S | MSc CSE| 6 | Numerical Simulation and Scientific Computing II |
-2024S | MSc TC| 3 | Programming for Chemists |
+|2024S | MSc CSE| 6 | Numerical Simulation and Scientific Computing II |
+|2024S | MSc TC| 3 | Programming for Chemists |
 |2023W | MSc CSE/TC/MS | 3 | Simulation of condensed matter |
 |2023W | MSc CSE | 4.5 | Introduction to Theoretical Chemistry |
 |2023W | MSc CSE | 4.5 | Introduction to Computational Science and Engineering |
