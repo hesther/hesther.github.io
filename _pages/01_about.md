@@ -10,7 +10,7 @@ Heid Lab
 ... where our vision is to establish a virtual lab to understand and predict reactivity.
 
 | <img src="../../../../assets/img/JohannesKarwounopoulos.png" width="90%"> | <img src="../../../../assets/img/JasperDeLandsheere.png" width="90%"> | <img src="../../../../assets/img/LeonardGalustian.png" width="90%"> | 
-| <font size="2">Johannes Karwounopoulos | <font size="2">JasperDeLandsheere | <font size="2">Leonard Galustian |
+| <div align="center"><font size="2">Johannes Karwounopoulos</div> | <div align="center"><font size="2">Jasper DeLandsheere</div> | <div align="center"><font size="2">Leonard Galustian</div> |
 | <img src="../../../../assets/img/LeonGanser.png" width="90%"> | <img src="../../../../assets/img/KonstantinMark.png" width="90%"> | <img src="../../../../assets/img/CharlotteGerhaher.png" width="90%"> | 
 | <font size="2">Leon Ganser | <font size="2">Konstantin Mark | <font size="2">Charlotte Gerhaher |
 | <img src="../../../../assets/img/MaximilianKovar.png" width="90%"> | <img src="../../../../assets/img/AntonZamyatin.png" width="90%"> | <img src="../../../../assets/img/BenjaminZeller.png" width="90%"> | 
