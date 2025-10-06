@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-* <b> (Virtual) Heid lab:</b> I just started my very own group at TU Wien, which is focused on establishing a virtual lab for predicting and understanding chemical reactions on the computer using deep learning, funded by an ERC Starting Grant (<a href="https://cordis.europa.eu/project/id/101162908">project summary</a>) and a (downgraded) FWF START grant (<a href="https://www.fwf.ac.at/forschungsradar/10.55776/STA192">project summary</a>). Check back soon for some of our first results.
+* <b>  Heid lab:</b> In 2024, I started my very own group at TU Wien, which is focused on establishing a virtual lab for predicting and understanding chemical reactions on the computer using deep learning, funded by an ERC Starting Grant (<a href="https://cordis.europa.eu/project/id/101162908">project summary</a>) and a (downgraded) FWF START grant (<a href="https://www.fwf.ac.at/forschungsradar/10.55776/STA192">project summary</a>). Check some of our newest publications on flow matching, or barrier height prediction in the Publications section.
 
 
 * <b> Database curation:</b> At TU Wien, I curated an extensive database of validated, stereochemistry-corrected enzymatic reactions, enabling large performance improvements for bioretrosynthesis via deep learning.
